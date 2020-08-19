@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/charge-account-webst/static/css/main.7c64c589.chunk.css",
+    "main.js": "/charge-account-webst/static/js/main.150be0f2.chunk.js",
+    "main.js.map": "/charge-account-webst/static/js/main.150be0f2.chunk.js.map",
+    "runtime-main.js": "/charge-account-webst/static/js/runtime-main.3264fdc8.js",
+    "runtime-main.js.map": "/charge-account-webst/static/js/runtime-main.3264fdc8.js.map",
+    "static/js/2.b6ef5d40.chunk.js": "/charge-account-webst/static/js/2.b6ef5d40.chunk.js",
+    "static/js/2.b6ef5d40.chunk.js.map": "/charge-account-webst/static/js/2.b6ef5d40.chunk.js.map",
+    "index.html": "/charge-account-webst/index.html",
+    "precache-manifest.8fc2612007be0663a602b530c6a189c3.js": "/charge-account-webst/precache-manifest.8fc2612007be0663a602b530c6a189c3.js",
+    "service-worker.js": "/charge-account-webst/service-worker.js",
+    "static/css/main.7c64c589.chunk.css.map": "/charge-account-webst/static/css/main.7c64c589.chunk.css.map",
+    "static/js/2.b6ef5d40.chunk.js.LICENSE.txt": "/charge-account-webst/static/js/2.b6ef5d40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3264fdc8.js",
+    "static/js/2.b6ef5d40.chunk.js",
+    "static/css/main.7c64c589.chunk.css",
+    "static/js/main.150be0f2.chunk.js"
+  ]
+}
